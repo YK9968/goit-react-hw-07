@@ -1,0 +1,7 @@
+.waitMessage {
+  text-transform: uppercase;
+  color: rgb(49, 202, 123);
+  font-size: 25px;
+  line-height: 1;
+  font-weight: 500;
+}
