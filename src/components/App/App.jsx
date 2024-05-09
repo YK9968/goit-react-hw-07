@@ -28,7 +28,6 @@ export default function App() {
       </div>
       <ContactForm />
       <SearchBox />
-
       <ContactList />
     </div>
   );
